@@ -1,0 +1,5 @@
+export const FETCH_ALL_SUCCESS = "animeList/fetchSuccess"
+export const FETCH_ONE_SUCCESS = "animeDetail/fetchSuccess"
+export const SET_LOADING = "setLoading/finally"
+export const SET_LOADING_DETAIL = "setLoadingDetail/finally"
+export const SET_ERROR = "setError/finally"

@@ -1,0 +1,13 @@
+export const FETCH_ALL_SUCCESS = "animeList/fetchSuccess";
+export const FETCH_GENRE_SUCCESS = "genreList/fetchSuccess";
+export const FETCH_GENRE_BY_ID_SUCCESS = "genreById/fetchSuccess";
+export const SET_LOADING = "setLoading/finally";
+export const SET_LOADING_EDIT_GENRE = "setLoadingGenre/finally";
+export const SET_ERROR = "setError/finally";
+export const ADD_ANIME_TOGGLE = "add_anime_toggle/condition";
+export const ADD_GENRE_TOGGLE = "add_genre_toggle/ToggleSuccess";
+export const EDIT_GENRE_TOGGLE = "edit_genre_toggle/ToggleSuccess";
+export const LOGIN = "login/loginSuccess";
+export const REGISTER = "register/registerSuccess";
+export const ADD_DATA = "addData/addDataSuccess";
+export const VIEW_CAST_TOGGLE = "view_cast_toggle/condition";
